@@ -1,6 +1,5 @@
 3ci test
 3ci test
 3ci test
-master majster master master
-
+a jak będzie z tym?
 
