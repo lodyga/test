@@ -1,2 +1,2 @@
 To jest temp-file.
-
+Jest tylko na temp.
