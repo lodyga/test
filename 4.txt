@@ -1,2 +1,3 @@
-To jest test po raz czwarty.
+To jest test po raz czwarty. Jest tylko na master.
+
 
